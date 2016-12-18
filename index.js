@@ -1,0 +1,1 @@
+var rectangle = require('./rectangle');
